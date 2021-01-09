@@ -16,7 +16,7 @@ let user:User;
 // user = { anything: 'anything', anynumber: 5};
 
 // This value does satisfy the interface
-user = {username: 'max', password: 'supersecret'};
+user = {username: 'millu', password: 'confidential'};
 
 // Interfaces can also contain functions (without the function body - as it only is a blueprint/ requirement)
 
